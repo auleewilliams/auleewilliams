@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Lee 👋
+<a href="https://www.linkedin.com/in/auleewilliams/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://auleewilliams.github.io/"><img src="https://img.shields.io/badge/allann-github.io-blue"/></a>
+I am a full-stack developer working with .net.
 
-GitHub Metrics
+## GitHub Metrics
 ![Metrics](/github-metrics.svg)
 
 <!--
