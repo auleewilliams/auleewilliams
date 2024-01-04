@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+GitHub Metrics
+![Metrics](/github-metrics.svg)
+
 <!--
 **auleewilliams/auleewilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
